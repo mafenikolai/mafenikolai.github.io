@@ -1,0 +1,150 @@
+@import "../../vars.css";
+
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+}
+
+.popupContainer {
+  background-color: rgb(255, 255, 255);
+  color: var(--color-text-dark);
+  border-radius: 32px;
+  box-shadow: 0 16px 16px rgba(0, 0, 0, 0.26);
+  width: 80%;
+  height: 90%;
+  overflow: auto;
+  position: relative;
+}
+
+.close {
+  fill: var(--color-text-dark);
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 100%;
+  padding: 30px;
+  z-index: 200;
+  cursor: pointer;
+}
+
+.popupContent {
+  position: relative;
+  padding: 30px;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.icon {
+  border-radius: 8px;
+  margin-right: 16px;
+  width: 150px;
+}
+
+.title h2 {
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.aboutContainer {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.instructions p {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Montserrat-Light", sans-serif;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.giftValue h3 {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.giftValue p {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Montserrat-Light", sans-serif;
+  padding-top: 6px;
+}
+
+.qrCodeContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.qrCode {
+  max-width: 100%;
+}
+
+.rawPixContainer {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+  max-width: 100%;
+}
+
+.rawPix {
+  max-width: 100%;
+  font-family: "Montserrat-Light", sans-serif;
+  text-align: center;
+  word-break: break-all;
+}
+
+@media screen and (max-width: 830px) {
+  .navbar {
+    padding: 10px;
+  }
+
+  .popupContainer {
+    width: 80%;
+    height: 80%;
+    border-radius: 20px;
+  }
+
+  .popupContent {
+    padding: 40px;
+  }
+
+  .title h2 {
+    font-size: 30px;
+  }
+
+  .giftValue h3 {
+    font-size: 15px;
+    font-weight: 600;
+  }
+
+  .aboutPicture {
+    width: 100%;
+    height: 100%;
+  }
+}

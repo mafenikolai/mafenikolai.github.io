@@ -1,0 +1,19 @@
+:root {
+  /* Colors */
+  --color-text: #f9f1f3;
+  --color-text-dark: #06123f;
+  --color-primary: #fff;
+  --color-secondary: #0d3e69;
+  --color-dark: #19588f;
+  --color-background: #2b567c;
+
+  /* Fonts */
+  --font-roboto: "Roboto", sans-serif;
+  --font-open-sans: "Open Sans", sans-serif;
+
+  @font-face {
+    font-family: "Montserrat-Light";
+    src: url("../public/fonts/Montserrat-Light.ttf") format("truetype");
+    /* Adicione outras propriedades de fonte, como font-weight e font-style, se necessário */
+  }
+}

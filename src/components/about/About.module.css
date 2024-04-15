@@ -1,0 +1,103 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  background-color: rgba(12, 12, 12, 0.6);
+  margin-top: 120px;
+  z-index: 1;
+}
+
+.title {
+  position: absolute;
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  top: 10%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.aboutImage {
+  width: 35%;
+}
+
+.aboutItems {
+  display: flex;
+  flex-direction: column;
+  color: var(--color-text);
+  gap: 48px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.aboutItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 20px;
+  list-style: none;
+  padding: 24px;
+}
+
+.aboutItem:hover {
+  background-size: 100% 100%;
+}
+
+.phrase {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
+  text-align: center;
+  margin-left: 6px;
+  margin-right: 6px;
+  font-size: 16px;
+}
+
+.aboutItem h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.aboutItem p {
+  font-size: 18px;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.aboutItemText {
+  margin-left: 16px;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    padding: 40px;
+  }
+
+  .content {
+    flex-direction: column;
+  }
+
+  .aboutImage {
+    width: 35%;
+    border-radius: 10px;
+  }
+
+  .aboutItems {
+    margin-top: 28px;
+  }
+
+  .aboutItem {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

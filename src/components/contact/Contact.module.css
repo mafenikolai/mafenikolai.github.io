@@ -1,0 +1,83 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  background-color: var(--color-secondary);
+  color: var(--color-text);
+  padding: 58px 10%;
+  gap: 10px;
+  z-index: 2;
+  overflow: hidden;
+}
+
+.subtitle {
+  font-size: 18px;
+  font-weight: 400;
+  margin-right: 4px;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.text h2 {
+  font-size: 56px;
+  font-weight: 500;
+  letter-spacing: 4px;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.text p {
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style: none;
+  width: 30px;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-top: 15px;
+}
+
+.link p {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 200;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: 23px;
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    font-family: "Montserrat-Light", sans-serif;
+  }
+
+  .text p {
+    font-size: 24px;
+    font-family: "Montserrat-Light", sans-serif;
+  }
+
+  .link a {
+    font-size: 18px;
+    font-family: "Montserrat-Light", sans-serif;
+  }
+}

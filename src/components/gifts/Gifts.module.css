@@ -1,0 +1,79 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  padding-top: 74px;
+  padding-left: 74px;
+  padding-right: 74px;
+  margin-left: 10%;
+  margin-right: 10%;
+  z-index: 1;
+  color: var(--color-text);
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 500;
+  font-family: "Montserrat-Light", sans-serif;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+.description {
+  color: var(--color-text);
+  font-size: 18px;
+  font-weight: 100;
+  padding-top: 10px;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.giftCard {
+  color: var(--color-text);
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  word-wrap: break-word;
+  width: 100%;
+  max-width: 290px;
+}
+
+.value {
+  color: var(--color-text);
+  font-size: 16px;
+  margin-bottom: 10px;
+  font-weight: 100;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  margin-top: 36px;
+  margin-bottom: 36px;
+  list-style: none;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.cardPicture {
+  display: flex;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+  height: auto;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .content {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+}

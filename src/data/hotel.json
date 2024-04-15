@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Hotel Nacional Inn Santa Felicidade",
+        "complement": " - a 100m do local do evento",
+        "address": "Av. Manoel Ribas, 5480 - Santa Felicidade, Curitiba",
+        "contact": "(41) 3075-5000",
+        "price": [
+            {
+                "preco": " - R$ 269 + 5% ISS",
+                "descricao": "Quarto individual"
+            },
+            {
+                "preco": " - R$ 298 + 5% ISS",
+                "descricao": "Quarto duplo"
+            },
+            {
+                "preco": " - R$ 325 + 5% ISS",
+                "descricao": "Quarto triplo"
+            },
+            {
+                "preco": " - R$ 375 + 5% ISS",
+                "descricao": "Quarto quadruplo"
+            }
+        ]
+    },
+    {
+        "name": "Outro hotel",
+        "complement": " - centro da cidade",
+        "address": "Rua tal, 1234 - Centro, Curitiba",
+        "contact": "(41) 3000-0000",
+        "price": [
+            {
+                "preco": " - R$ 269 + 5% ISS",
+                "descricao": "Quarto individual"
+            }
+        ]
+    }
+]

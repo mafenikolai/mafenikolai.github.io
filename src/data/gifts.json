@@ -1,0 +1,173 @@
+[
+    {
+      "id": 7,
+      "name": "Amo vocês, mas gastei toda a grana no look e salão",
+      "cardPicture": "no-money.png",
+      "cardDescription": "R$ 20,00",
+      "icon": "no-money.png",
+      "value": 20.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 1,
+      "name": "Pedir para o músico 'tocar Raul' no casamento",
+      "cardPicture": "raul.png",
+      "cardDescription": "R$ 50,00",
+      "icon": "raul.png",
+      "value": 50.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "Financiar um vinho campo largo na Itália",
+      "cardPicture": "vinho.png",
+      "cardDescription": "R$ 80,00",
+      "icon": "vinho.png",
+      "value": 80.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 5,
+      "name": "Estreiar o quarto de visitas na casa dos noivos",
+      "cardPicture": "visita.png",
+      "cardDescription": "R$ 100,00",
+      "icon": "visita.png",
+      "value": 100.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "Cobertor para a noiva que está sempre coberta de razão",
+      "cardPicture": "cobertor.png",
+      "cardDescription": "R$ 150,00",
+      "icon": "cobertor.png",
+      "value": 150.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "Alexa (para a noiva não mandar só no noivo)",
+      "cardPicture": "alexa-noiva.png",
+      "cardDescription": "R$ 180,00",
+      "icon": "alexa-noiva.png",
+      "value": 180.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "Alexa (para o noivo ter mais alguém para chamar toda hora)",
+      "cardPicture": "alexa-noivo.png",
+      "cardDescription": "R$ 200,00",
+      "icon": "alexa-noivo.png",
+      "value": 200.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 6,
+      "name": "Jogar o buquê na sua direção",
+      "cardPicture": "bouquet.png",
+      "cardDescription": "R$ 250,00",
+      "icon": "bouquet.png",
+      "value": 250.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 3,
+      "name": "Financiar um passeio em Pisa para tirar a foto de turista",
+      "cardPicture": "pisa.png",
+      "cardDescription": "R$ 300,00",
+      "value": 300.00,
+      "icon": "pisa.png",
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "Levar a decoração do casamento para casa",
+      "cardPicture": "decoracao.png",
+      "cardDescription": "R$ 400,00",
+      "icon": "decoracao.png",
+      "value": 400.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "Perguntar quando vem o primeiro filho",
+      "cardPicture": "filho.png",
+      "cardDescription": "R$ 500,00",
+      "icon": "filho.png",
+      "value": 500.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "Financiar uma fatia de pizza de abacaxi com ketchup em Roma",
+      "cardPicture": "pizza.png",
+      "cardDescription": "R$ 700,00",
+      "icon": "pizza.png",
+      "value": 700.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "1 ano de academia para os noivos ficarem no shape natural",
+      "cardPicture": "shape.png",
+      "cardDescription": "R$ 800,00",
+      "icon": "shape.png",
+      "value": 800.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "Para fazer pedido de casamento durante a festa",
+      "cardPicture": "pedido.png",
+      "cardDescription": "R$ 900,00",
+      "icon": "pedido.png",
+      "value": 900.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "Seja nosso parente favorito",
+      "cardPicture": "paarente.png",
+      "cardDescription": "R$ 1005,00",
+      "icon": "paarente.png",
+      "value": 1005.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 2,
+      "name": "Perguntar se pode levar o primo do amigo do seu tio no casamento",
+      "cardPicture": "primo.png",
+      "cardDescription": "R$ 2034,00",
+      "icon": "primo.png",
+      "value": 2034.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 4,
+      "name": "Ir junto com os noivos para a lua de mel",
+      "cardPicture": "vela.png",
+      "cardDescription": "R$ 3017,00",
+      "icon": "vela.png",
+      "value": 3017.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "Ir de branco no casamento",
+      "cardPicture": "branco.png",
+      "cardDescription": "R$ 5000,00",
+      "icon": "branco.png",
+      "value": 5000.00,
+      "about": "Descricao do presente"
+    },
+    {
+      "id": 7,
+      "name": "Quero dar o presente mais caro",
+      "cardPicture": "dinheiro.png",
+      "cardDescription": "R$ 6000,00",
+      "icon": "dinheiro.png",
+      "value": 6000.00,
+      "about": "Descricao do presente"
+    }
+]

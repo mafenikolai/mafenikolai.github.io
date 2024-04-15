@@ -1,0 +1,77 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 49px;
+  margin-left: 10%;
+  margin-right: 10%;
+  z-index: 1;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: var(--color-text);
+  z-index: 1;
+}
+
+.title {
+  font-size: 50px;
+  font-weight: 200;
+  margin-bottom: 33px;
+  font-family: "Montserrat-Light";
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 70%,
+    rgba(255, 255, 255, 0) 120%
+  );
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.description {
+  font-size: 30px;
+  font-family: "Montserrat-Light";
+  margin-bottom: 52px;
+}
+
+@keyframes floating {
+  0% {
+    -webkit-transform: translateY(0px);
+  }
+  50% {
+    -webkit-transform: translateY(5px);
+  }
+  100% {
+    -webkit-transform: translateY(0px);
+  }
+}
+
+.heroImage {
+  width: 50%;
+  z-index: 1;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column-reverse;
+  }
+
+  .content {
+    align-items: center;
+  }
+
+  .title {
+    font-size: 35px;
+    text-align: center;
+  }
+
+  .description {
+    font-size: 32px;
+    text-align: center;
+  }
+}

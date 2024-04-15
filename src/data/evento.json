@@ -1,0 +1,19 @@
+[
+    {
+      "type": "Celebração religiosa",
+      "startDate": "19:00",
+      "address": "- Av. Manoel Ribas, 6252, Santa Felicidade, Curitiba - PR",
+      "venue": "Paróquia São José e Santa Felicidade"
+    },
+    {
+      "type": "Recepção",
+      "startDate": "após a celebração",
+      "address": "- Av. Manoel Ribas, 5734, Santa Felicidade, Curitiba - PR",
+      "venue": "Ristorante Siciliano"
+    },
+    {
+      "type": "Traje",
+      "startDate": "Social completo",
+      "address": "Convidadas, favor evitar vestido azul marinho, que será a cor das madrinhas."
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc4c27fe.css",
+    "main.js": "/static/js/main.528514a9.js",
+    "static/media/about.png": "/static/media/about.da66caddb03c52aee38a.png",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
+    "static/media/raul.png": "/static/media/raul.65024b53a89a547c8be2.png",
+    "static/media/shape.png": "/static/media/shape.87e750b0646ee24acafa.png",
+    "static/media/pizza.png": "/static/media/pizza.c5ce2742df29b709af66.png",
+    "static/media/bouquet.png": "/static/media/bouquet.1bf249fef416cf5fc069.png",
+    "static/media/vela.png": "/static/media/vela.800c5a13d55ed76e8c51.png",
+    "static/media/no-money.png": "/static/media/no-money.1065917bab4c41b1b1a2.png",
+    "static/media/filho.png": "/static/media/filho.e656d820f39f39f57884.png",
+    "static/media/dinheiro.png": "/static/media/dinheiro.fe195d798d1ec3de19e3.png",
+    "static/media/pisa.png": "/static/media/pisa.328415fd183fdafee2ed.png",
+    "static/media/visita.png": "/static/media/visita.7b68a4e80b09a246e6b3.png",
+    "static/media/branco.png": "/static/media/branco.cfc2a089a58575ab1f7c.png",
+    "static/media/cobertor.png": "/static/media/cobertor.feec171a1802cadd18c8.png",
+    "static/media/pedido.png": "/static/media/pedido.a7486ee8ba712cec6832.png",
+    "static/media/decoracao.png": "/static/media/decoracao.675aa35c98371937f103.png",
+    "static/media/paarente.png": "/static/media/paarente.e0c687c1197eeca01829.png",
+    "static/media/primo.png": "/static/media/primo.0fc3126da4d3645a0b4b.png",
+    "static/media/vinho.png": "/static/media/vinho.206ac789cc8049fb179d.png",
+    "static/media/mono.png": "/static/media/mono.e267cb176a5f8df02373.png",
+    "static/media/alexa-noivo.png": "/static/media/alexa-noivo.8095afa425222cf43d89.png",
+    "static/media/alexa-noiva.png": "/static/media/alexa-noiva.d0e9628b56f6170423fe.png",
+    "static/media/closeIcon.svg": "/static/media/closeIcon.ac00025093007dfb2471930a46d9ca1e.svg",
+    "static/media/menuIcon.svg": "/static/media/menuIcon.980516fe31462e280145f3b4e3927539.svg",
+    "static/media/whats-blue.svg": "/static/media/whats-blue.b44e99d9c7696ba8168dad81f3b6434b.svg",
+    "static/media/whats-white.svg": "/static/media/whats-white.f8a5d4535a204a96250b7e3cdb07aa2c.svg",
+    "static/media/close.svg": "/static/media/close.bad8692594235dea01c25f8c62986de6.svg",
+    "index.html": "/index.html",
+    "main.dc4c27fe.css.map": "/static/css/main.dc4c27fe.css.map",
+    "main.528514a9.js.map": "/static/js/main.528514a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4c27fe.css",
+    "static/js/main.528514a9.js"
+  ]
+}

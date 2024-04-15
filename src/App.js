@@ -38,8 +38,6 @@ function App() {
                 <GiftDetails gift={selectedGift} onClose={handleClosePopup} />
             )}
         
-            <div className={styles.topBlur}/>
-            <div className={styles.bottomBlur}/>
         </div>
     );
 }

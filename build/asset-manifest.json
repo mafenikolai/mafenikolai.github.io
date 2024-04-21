@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e504348.css",
-    "main.js": "/static/js/main.160808f0.js",
+    "main.css": "/static/css/main.09945c87.css",
+    "main.js": "/static/js/main.6f3d0d11.js",
     "static/media/about.png": "/static/media/about.da66caddb03c52aee38a.png",
+    "static/media/igrej-2.png": "/static/media/igrej-2.583af9eb9c10ed98a1aa.png",
     "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
     "static/media/raul.png": "/static/media/raul.65024b53a89a547c8be2.png",
     "static/media/shape.png": "/static/media/shape.87e750b0646ee24acafa.png",
@@ -21,7 +22,6 @@
     "static/media/paarente.png": "/static/media/paarente.e0c687c1197eeca01829.png",
     "static/media/primo.png": "/static/media/primo.0fc3126da4d3645a0b4b.png",
     "static/media/vinho.png": "/static/media/vinho.206ac789cc8049fb179d.png",
-    "static/media/mono.png": "/static/media/mono.e267cb176a5f8df02373.png",
     "static/media/alexa-noivo.png": "/static/media/alexa-noivo.8095afa425222cf43d89.png",
     "static/media/alexa-noiva.png": "/static/media/alexa-noiva.d0e9628b56f6170423fe.png",
     "static/media/closeIcon.svg": "/static/media/closeIcon.ac00025093007dfb2471930a46d9ca1e.svg",
@@ -30,11 +30,11 @@
     "static/media/whats-white.svg": "/static/media/whats-white.f8a5d4535a204a96250b7e3cdb07aa2c.svg",
     "static/media/close.svg": "/static/media/close.bad8692594235dea01c25f8c62986de6.svg",
     "index.html": "/index.html",
-    "main.4e504348.css.map": "/static/css/main.4e504348.css.map",
-    "main.160808f0.js.map": "/static/js/main.160808f0.js.map"
+    "main.09945c87.css.map": "/static/css/main.09945c87.css.map",
+    "main.6f3d0d11.js.map": "/static/js/main.6f3d0d11.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e504348.css",
-    "static/js/main.160808f0.js"
+    "static/css/main.09945c87.css",
+    "static/js/main.6f3d0d11.js"
   ]
 }

@@ -11,7 +11,7 @@ export const Hero = () => {
 
         </div>
         <img src={
-            require("../../assets/hero/mono.png")} 
+            require("../../assets/hero/igrej-2.png")} 
             alt="hero" 
             className={styles.heroImage}
         />

@@ -64,6 +64,9 @@
   height: auto;
   max-width: 300px;
   max-height: 300px;
+  border-color: var(--color-text-dark);
+  border-width: 1px;
+  border-style: solid;
 }
 
 @media screen and (max-width: 830px) {

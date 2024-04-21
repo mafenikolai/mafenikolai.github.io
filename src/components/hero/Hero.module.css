@@ -24,11 +24,7 @@
   font-weight: 200;
   margin-bottom: 33px;
   font-family: "Montserrat-Light";
-  background: linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 1) 70%,
-    rgba(255, 255, 255, 0) 120%
-  );
+  background: linear-gradient(90deg, #06123f 70%, #06123f 120%);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
@@ -52,7 +48,7 @@
 }
 
 .heroImage {
-  width: 50%;
+  width: 70%;
   z-index: 1;
 }
 
@@ -66,12 +62,15 @@
   }
 
   .title {
-    font-size: 35px;
+    margin-top: 25px;
+    font-size: 25px;
+    margin-bottom: 20px;
     text-align: center;
   }
 
   .description {
-    font-size: 32px;
+    font-size: 20px;
     text-align: center;
+    margin-bottom: 15px;
   }
 }

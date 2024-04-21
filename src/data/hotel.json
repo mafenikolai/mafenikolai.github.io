@@ -24,14 +24,26 @@
         ]
     },
     {
-        "name": "Outro hotel",
+        "name": "Hotel Dan Inn",
         "complement": " - centro da cidade",
-        "address": "Rua tal, 1234 - Centro, Curitiba",
-        "contact": "(41) 3000-0000",
+        "address": "Rua Amintas de Barros, 71 - Centro, Curitiba",
+        "contact": "(41) 3322-8558",
         "price": [
             {
-                "preco": " - R$ 269 + 5% ISS",
+                "preco": " - R$ 176",
                 "descricao": "Quarto individual"
+            },
+            {
+                "preco": " - R$ 202",
+                "descricao": "Quarto duplo"
+            },
+            {
+                "preco": " - R$ 262",
+                "descricao": "Quarto triplo"
+            },
+            {
+                "preco": " - R$ 367",
+                "descricao": "Quarto quadruplo"
             }
         ]
     }

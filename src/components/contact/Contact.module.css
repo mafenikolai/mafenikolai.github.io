@@ -16,8 +16,16 @@
 
 .subtitle {
   font-size: 18px;
-  font-weight: 400;
+  font-weight: 500;
   margin-right: 4px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.subtitle2 {
+  font-size: 14px;
+  font-weight: 300;
+  margin-right: 4px;
+  margin-top: 4px;
   font-family: "Montserrat-Light", sans-serif;
 }
 

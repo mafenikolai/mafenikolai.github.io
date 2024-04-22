@@ -20,7 +20,7 @@
 }
 
 .title {
-  font-size: 50px;
+  font-size: 44px;
   font-weight: 200;
   margin-bottom: 33px;
   font-family: "Montserrat-Light";
@@ -30,7 +30,7 @@
 }
 
 .description {
-  font-size: 30px;
+  font-size: 28px;
   font-family: "Montserrat-Light";
   margin-bottom: 52px;
 }
@@ -50,6 +50,19 @@
 .heroImage {
   width: 70%;
   z-index: 1;
+}
+
+@media screen and (max-width: 1100px) {
+  .title {
+    margin-top: 25px;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
+  .description {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
 }
 
 @media screen and (max-width: 830px) {

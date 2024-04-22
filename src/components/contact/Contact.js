@@ -10,7 +10,7 @@ export const Contact = () => {
             <div className={styles.text}>
                 <h2>RSVP</h2>
                 <h4 className={styles.subtitle}>Por gentileza, confirmar presença diretamente com os noivos até 30/07. </h4>
-                <h4 className={styles.subtitle2}> É importante! Caso não confirme sua presença, iremos considerar como não comparecimento e isso pode gerar problemas com nossos fornecedores. </h4>
+                <h4 className={styles.subtitle2}> É importante! Caso não confirme sua presença, você não constará na lista e isso pode gerar transtornos com nossos fornecedores. </h4>
             </div>
             <ul className={StyleSheet.links}>
                 <li className={styles.link}>
